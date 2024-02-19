@@ -4,7 +4,8 @@
 
 echo 'Привет!'
 echo 'Как тебя зовут?'
-read name
+read name KarmaOni
+
 echo 'Привет,'"$name"'!'
 echo 'Я инициализирующий модуль AI, и, кажется у нас проблемы..'
 echo '>>'
